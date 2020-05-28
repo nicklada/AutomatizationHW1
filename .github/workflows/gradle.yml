@@ -10,13 +10,13 @@ on:
       - testng
       - junit4
       - junit4-platform
+
   pull_request:
     branches: 
       - master
       - testng
       - junit4
       - junit4-platform
-      
 
 jobs:
   build:
