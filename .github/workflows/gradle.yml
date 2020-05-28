@@ -18,7 +18,6 @@ on:
       - junit4
       - junit4-platform
 
-
 jobs:
   build:
 
