@@ -16,7 +16,7 @@ on:
       - master
       - testng
       - junit4
-      - junit4-platform      
+      - junit4-platform
 
 jobs:
   build:
